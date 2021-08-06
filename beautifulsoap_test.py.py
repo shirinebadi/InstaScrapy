@@ -95,7 +95,7 @@ def parsePostInfo(jsondata,num):
     return PostInfo
 
 if __name__ == "__main__":
- requestList = {"saman2000hoseini","shirin__ebadi","instagram"}
+ requestList = {"list to scrap"}
  
  driver = login()
 
